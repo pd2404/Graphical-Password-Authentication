@@ -15,8 +15,8 @@ def email_trigger(sec_pattern,RECIVER):
 
 def email_sender(sec_pattern,RECIVER,CURR_TIME) :
     
-    MY_EMAIL = "otp.graphicalauthenticator@gmail.com"
-    PASSWORD = "iyzd zrba wosg aqgg"
+    MY_EMAIL = "Your email Address "
+    PASSWORD = "Your Passkey"
     MASSAGE = f"""
     Hello dear user,
       OTP pattern generated at time =  {CURR_TIME}
